@@ -6,10 +6,11 @@ h1 {
     background-color: #2B4931;
     margin-bottom: 10px;
     font-size: 500%;
-    color: #FFFFFF;
+    color: #ebebeb;
     padding: 40px;
     font-style: italic;
-    font-family: Roboto
+    font-family: Roboto;
+    margin-right: 11%;
 }
 
 nav {
@@ -17,7 +18,7 @@ nav {
     margin-bottom: 60px;
     background-color: #2B4931;
     font-size: 180%;
-    color: #FFFFFF;
+    color: #ebebeb;
     font-style: italic;
     padding: 5px;
     font-family: Open Sans;
@@ -26,9 +27,9 @@ nav {
 main {
     width: 92%;
     margin: auto;
-    color: #FFFFFF;
+    color: #ebebeb;
     font-style: italic;
-    padding: 30px;
+    padding: 10px;
 }
 
 body {
@@ -48,4 +49,55 @@ p {
     font-size: 150%;
     padding: 20px;
     font-family: Open Sans;
+}
+
+footer h2 {
+    color: #ebebeb;
+    text-align: center;
+    font-style: italic;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+aside h2 {
+    color: #ebebeb;
+    text-align: center;
+    size: 50px;
+    margin-top: 160px;
+}
+
+aside {
+    margin-top: 35px;
+    background-color: #2B4931;
+    background-image: url('finalgrass.png');
+    background-position: bottom;
+    background-repeat: repeat-x;
+    text-align: center;
+    font-style: italic;
+}
+
+header {
+    background-color: #2B4931;
+}
+
+header img {
+    float: left;
+    vertical-align: middle;
+    height: 70%;
+    margin-top: 2.3%;
+    margin-left: 5.5%;
+    max-width: none;
+}
+
+main img {
+    width: 98.5%;
+    border-style:solid;
+    border-width: 5px;
+    border-color: #395639;
+    background: #395639;
+    padding: 5px;
+}
+
+header h1 {
+
 }
