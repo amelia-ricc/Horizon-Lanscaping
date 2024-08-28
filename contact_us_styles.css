@@ -59,22 +59,7 @@ footer h2 {
     font-size: 20px;
 }
 
-aside h2 {
-    color: #ebebeb;
-    text-align: center;
-    size: 50px;
-    margin-top: 160px;
-}
 
-aside {
-    margin-top: 35px;
-    background-color: #2B4931;
-    background-image: url('finalgrass.png');
-    background-position: bottom;
-    background-repeat: repeat-x;
-    text-align: center;
-    font-style: italic;
-}
 
 header {
     background-color: #2B4931;
