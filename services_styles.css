@@ -84,8 +84,15 @@ aside {
     background-image: url(gardeningpicture.jpeg);
     margin-top: 43px;
     margin-bottom: 37px;
+    background-size: cover;
+    border-color: #395639;
+    border-style: solid;
+    border-width: 10px;
+    margin-right: 37px;
+    margin-left: -20px;
 }
 
 main p {
     line-height: 2;
 }
+
